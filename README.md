@@ -2,11 +2,11 @@
 
 ## Objetivo
 
-O objetivo deste conteúdo é praticar o que estou aprendendo no curso [Intensivo Data Analytics](https://asn.rocks/ida/), da Adriana Silva, da ASN.ROCKS. A idéia e ter um entendimento do conteúdo e colocar minhas analogiasa respeito dos temas, além de buscar outras referências para os temas aprendidos.
+O objetivo deste conteúdo é praticar o que estou aprendendo no curso [Intensivo Data Analytics](https://asn.rocks/ida/), da Adriana Silva, da ASN.ROCKS. A idéia e ter um entendimento do conteúdo e colocar minhas analogias a respeito dos temas, além de buscar outras referências para os conteúdos aprendidos.
 
 ## Ferramentas
 
-Com a idéia de ter uma imersão no mundo de dados. Vou utilizar de ferramentas de mercado, para sempre procurar trazer um toque do mundo real. Segue abaixo algumas ferramentas:
+Com a idéia de ter uma imersão no mundo de dados, vou utilizar de ferramentas de mercado, para sempre procurar trazer um toque do mundo real. Segue abaixo algumas ferramentas:
 
 ### Git
 
@@ -58,7 +58,7 @@ Com isto, você consegue acessar no seu browser de preferência o Jupyter Notebo
 
 ![jupyter_console](image/README/jupyter_console.png)
 
-O token para acesso é "meutoken123". POr ser um ambiente de estudo e não produtivo, pode se utilizar, mas o token está aberto e é de responsabilidade de quem executar o código se utiliza ou alterra esta informação.
+O token para acesso é "meutoken123". Por ser um ambiente de estudo e não produtivo, pode se utilizar, mas o token está aberto e é de responsabilidade de quem executar o código se utiliza ou alterra esta informação.
 
 - Após login, o Jupyter carregada o que está no diretório que foi executado o comando:
 ![jupyter_console2](image/README/jupyter_console2.png)
