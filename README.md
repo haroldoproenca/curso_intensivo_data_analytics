@@ -1,4 +1,4 @@
-# Curso de Estatística
+# Curso Intensivo Data Analytics
 
 ## Objetivo
 
