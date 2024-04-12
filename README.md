@@ -47,7 +47,7 @@ Se sua conta de administrador for diferente de sua conta de usuário, você deve
 - Abrir o PowerShell no seu Windows
 - Navegar via prompt até o diretório onde estão seus arquivos Jupyter (*.ipynb), se já existirem. Exemplo:
 ```powershell
-cd C:\Users\harol\vmshared\git\curso_estatistica
+cd C:\Users\harol\vmshared\git\curso_intensivo_data_analytics
 ```
 - Executar o comando:
 ```powershell
